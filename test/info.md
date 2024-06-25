@@ -19,14 +19,14 @@ OK (1 test, 2 assertions)
 
 si jamais : 
 
-<?xml version="1.0" encoding="UTF-8"?>
-<phpunit bootstrap="vendor/autoload.php">
-    <testsuites>
-        <testsuite name="Application Test Suite">
-            <directory>./tests</directory>
-        </testsuite>
-    </testsuites>
-</phpunit>
+xml version="1.0" encoding="UTF-8"?>
+phpunit bootstrap="vendor/autoload.php"
+    testsuites
+        testsuite name="Application Test Suite"
+            directory>./tests directory
+        testsuite
+    testsuite
+phpunit
 Créez un fichier de configuration phpunit.xml à la racine de votre projet si vous ne l'avez pas encore fait. Voici un exemple de fichier de configuration 
 
 
